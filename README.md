@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Frontend
-- 📫 How to reach me through email itxmejz@gmail.com
+- 📫 How to reach me through email jahanzaibgohar03@gmail.com
 - 😄 Pronouns: zabbe
 
 <!---
