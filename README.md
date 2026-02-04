@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jahanzaib
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Frontend
+- 💞️ I’m looking to collaborate as a SalesForce Developer
 - 📫 How to reach me through email jahanzaibgohar03@gmail.com
 - 😄 Pronouns: zabbe
 
